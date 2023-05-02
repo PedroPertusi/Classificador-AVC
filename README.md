@@ -31,10 +31,18 @@ Em busca de obter resultados sobre quais características mais aparecem nos caso
 | smoking_status_smokes    | 3273  |
 
 
-## Referência
-De acordo com o resultado descoberto pelo algoritmo de predição, foi possível classificar o tabagismo como a principal causa de AVC: Acidente Vascular Cerebral. Abaixo, foi extraído um trecho do artigo Smoking and stroke: the more you smoke the more you stroke, o qual comenta essa relação.
+## Referências
+De acordo com o resultado descoberto pelo algoritmo de predição, foi possível classificar a hipertensão como a principal causa de AVC: Acidente Vascular Cerebral. Abaixo, foi extraído um trecho do artigo 'Hipertensão arterial e AVC', o qual comenta essa relação.
 
+"A hipertensão arterial (HA) é o principal fator de risco modificável para as doenças cerebrovasculares (DCV) principalmente para o AVC. Cerca de 80% dos AVCs estão relacionados à HA, que pode causar todos os diferentes tipos de AVC, como infarto, hemorragia, grandes AVCs ou lacunares e as demências vasculares. A detecção e controle da pressão arterial é um ponto básico e fundamental de qualquer programa de prevenção de AVC, devendo ser esse o maior foco." GAGLIARDI, Rubens José (2009).
+
+"O controle da pressão arterial é um item fundamental e prioritário na prevenção primária ou secundária dos AVCs. Deve ser feito de modo exaustivo e contínuo, e, assim, estaremos oferecendo uma boa proteção aos nossos pacientes, frente a essa terrível doença que é o AVC." GAGLIARDI, Rubens José (2009).
+
+Abaixo, selecionamos também um trecho do artigo "Smoking and stroke: the more you smoke the more you stroke", para comentar o AVC está relacionado a outro grande fator de risco encontrado pelo algoritmo, o tabagismo.
 "The evidence linking smoking to stroke is extremely convincing. In short, these studies performed across various ethnicities and populations demonstrate a strong association between smoking and stroke risk, with current smokers having at least a two- to fourfold increased risk of stroke compared with lifelong nonsmokers or individuals who had quit smoking more than 10 years prior. In one study, the risk increased to sixfold when this population was compared with nonsmokers who had never been exposed to environmental tobacco smoke (i.e., second-hand smoke)." Reena S Shah & John W Cole (2010).
+
+<hr>
+GAGLIARDI, Rubens José. Hipertensão arterial e AVC. ComCiência,  Campinas,  n. 109,   2009 .   Available from <http://comciencia.scielo.br/scielo.php?script=sci_arttext&pid=S1519-76542009000500018&lng=en&nrm=iso>. access on  01  May  2023.
 
 Reena S Shah & John W Cole (2010) Smoking and stroke: the more you smoke the more you stroke, Expert Review of Cardiovascular Therapy, 8:7, 917-932, DOI: 10.1586/erc.10.56
 

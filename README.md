@@ -39,6 +39,7 @@ De acordo com o resultado descoberto pelo algoritmo de predição, foi possível
 "O controle da pressão arterial é um item fundamental e prioritário na prevenção primária ou secundária dos AVCs. Deve ser feito de modo exaustivo e contínuo, e, assim, estaremos oferecendo uma boa proteção aos nossos pacientes, frente a essa terrível doença que é o AVC." GAGLIARDI, Rubens José (2009).
 
 Abaixo, selecionamos também um trecho do artigo "Smoking and stroke: the more you smoke the more you stroke", para comentar o AVC está relacionado a outro grande fator de risco encontrado pelo algoritmo, o tabagismo.
+
 "The evidence linking smoking to stroke is extremely convincing. In short, these studies performed across various ethnicities and populations demonstrate a strong association between smoking and stroke risk, with current smokers having at least a two- to fourfold increased risk of stroke compared with lifelong nonsmokers or individuals who had quit smoking more than 10 years prior. In one study, the risk increased to sixfold when this population was compared with nonsmokers who had never been exposed to environmental tobacco smoke (i.e., second-hand smoke)." Reena S Shah & John W Cole (2010).
 
 <hr>

@@ -2,6 +2,8 @@
 Por Pedro Pertusi e Alexandre Magno
 
 # Descrição
+O projeto consiste em elaboradar dois classificadores: um classificador linear e um classificador de árvores de decisão. Ele é construído usando as biblioteca Pandas, Sklearn e Autograd e implementado em Python. O objetivo desses classificadores era permitir a classificação de casos de AVC e também tirar conclusões e relações a partir dos nossos dados.
+
 
 # Como utilizar
 * É possível instalar a aplicação de duas formas:
@@ -13,8 +15,6 @@ Por Pedro Pertusi e Alexandre Magno
 # Análise e Conclusões
 
 ## Meotodologia
-
-Para esta atividade foram elaborados dois classificadores: um classificador linear e um classificador de árvores de decisão. O objetivo desses classificadores era permitir a classificação de casos de AVC e também tirar conclusões e relações a partir dos nossos dados.
 
 Um dos problemas iniciais veio justamente dos nossos dados, devido ao fato de um número muito maior de casos em que a pessoa não sofria um AVC, o mesmo acabava ficando enviesado, caindo assim no caso da nossa hipótese nula que apontava justamente para o quão eficiente seria o classificador, se pudéssemos apenas chutar sempre o mais frequente. Com o fim de procurar novos resultados, realizamos uma poda, que consistia em usar dados equilibrados, entre casos de AVC e não AVC. Com isso, apesar de diminuir nossa probabilidade de acerto, principalmente para o estimador em árvore, foi possível obter uma probabilidade de acerto acima da hipótese nula de 50%, ressaltando assim a influência de um dataframe não enviesado.
 

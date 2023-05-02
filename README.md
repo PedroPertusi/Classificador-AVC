@@ -10,9 +10,6 @@ Por Alexandre Magno e Pedro Pertusi
 * Em seguida, execute o comando: `pip install -r requirements.txt` no diretório principal do projeto clonado.
 * Execute o programa com o seguinte comando: `python demo.ipynb`
 
-# Modelo Matemático
-
-
 # Análise e Conclusões
 
 ## Meotodologia
